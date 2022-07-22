@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yale Quan"
+title                    : "Steven M. Karceski"
 title_separator          : "-"
-name                     : &name "Yale Quan"
+name                     : &name "Steven M. Karceski"
 description              : &description "personal description"
-url                      : https://yalequan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://skarceski.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yalequan/yalequan.github.io"
+repository               : "skarceski/skarceski.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yale Quan"
+  name             : "Steven M. Karceski"
   avatar           : "profile.png"
-  bio              : "Applied statistician whose research focuses on educational equity and student success."
+  bio              : "Political sociologist interested in fiscal sociology, public opinion, and political ideology"
   location         : "Seattle, WA"
-  employer         :
-  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=1JAU4QMAAAAJ&view_op=list_works&gmla=AJsN-F7EHZ8o_t3gQOmYq4TbNMLZbX3hm9e_dHAhYkswgTj7MFHJTReIAeZVfP2VOeZq8OE79Ht9bedDOQZk07lfugMZTe2D61VZDYkaWO3MJngaOdnWTNs"
-  email            : "yalequan@uw.edu"
+  employer         : "University of Washington"
+  #pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=Iuq3PeUAAAAJ&hl=en"
+  email            : "stevek7@uw.edu"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   #uri              :
   #bitbucket        :
@@ -102,14 +102,14 @@ author:
   #instagram        :
   #impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   #lastfm           :
-  linkedin         : "yalequan"
+  #linkedin         : "steven-m-karceski-16749371"
   #orcid            : "http://orcid.org/yourorcidurl"
   #pinterest        :
   #soundcloud       :
   #stackoverflow    : # http://stackoverflow.com/users/123456/username
   #steam            :
   #tumblr           :
-  #twitter          : "replacethistwitterhandle"
+  twitter          : "@KarceskiSteven"
   #vine             :
   #weibo            :
   #xing             :

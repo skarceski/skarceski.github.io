@@ -5,44 +5,22 @@ permalink: /teaching-experience/
 author_profile: true
 ---
 
-Below is a chronological list of my teaching experience along with a brief description. 
+As a teacher I am driven to help students learn how to think critically and sociologically about the world around them, to engage in debate with others, and to communicate their ideas through writing and speaking. During graduate school I have been privileged to teach a large range of courses: substantive area courses (like political sociology), sociological theory, a civic engagement practicum, an undergraduate research practicum, and the undergraduate honors course. Each has required me to develop different teaching skills and prepared me to teach students not only how to understand research and social theory, but also to conduct their own research and effectively communicate the importance of their work.   
 
+### What I can teach
 
-# Teaching Assistant, University of Washington
+I've taught courses in political sociology, sociological theory, undergraduate honors sociology, sociology of work and occupations, undergraduate, law and society, and the introductory survey into sociology. I've been a TA for social statistics, sociological theory, data and society, and intro to sociology. I have also supervised a number of independent studies, an interdisciplinary honors thesis, and a sociology undergraduate honors thesis (separate from serving as the instructor).  Most of my courses (and all independent studies and honors theses) have included a significant amount of writing feedback and instruction. Further, given my research experience, I am confident I can teach courses in environmental sociology/politics, comparative politics, fiscal sociology, and economic sociology. 
 
-## Course: PSYCH 209 - Fundamentals of Psychological Research
+I can also teach courses in statistical programming. In the research practicum and honors courses, I taught undergraduate students the R statistical programming language, with a focus on data manipulation/cleaning, data visualization, and model fitting (primarily linear and logistic models, but in a few cases multilevel models and panel models). I have experience with various R packages used for data manipulation, visualization, counterfactual estimations, table creation (including model output), spatial data (dealing with maps, shapefiles, and areal weighted interpolation), statistical modelling (OLS, GLM, multilevel, Bayesian), using survey data, text analysis (and regular expressions), and packages for accessing data sets like the General Social Survey, American National Election Study, and the US Census. With my experience I am well equipped to teach workshops and courses in introductory R, data visualization, and statistical implementation. While most of my experience is in R, I also have experience with teaching undergraduate students SPSS, Stata, and SQL. 
 
-Teach up to 100 undergraduate students per quarter. Students enrolled in this course are either applying into the psychology major or preparing to undertake research within the department. Course content covers psychological research methodology and techniques. Topics include the logic of hypothesis testing, experimental design, research strategies and techniques, fundamentals of scientific writing, search and evaluation of research literature in psychology, and ethical issues in psychological research.
+### How I teach 
 
-# Lecturer, California State University, Long Beach
-*Department of Mathematics and Statistics*
+When I teach substantive courses – like political sociology and sociological theory – I generally split class time between lecture and discussion or small group activities. Lectures cover the assigned readings and additional material expanding the scope of the lecture to include differing perspectives, recent data, and other applications of theories to historical and current events. Students submit short comments or questions prior to each meeting on the assigned reading, and I use these to guide group discussion. 
 
-## Course: STAT 108* - Statistics for Everyday Life
+Since most of my experience is with relatively small classes (fewer than 30 students), my goal is to cultivate a collegial, friendly space for students to feel comfortable talking about course material by engaging in discussion with me and the other students. I emphasize respectful disagreement, relating theory/readings to current events or personal experiences, and welcome constructive criticisms of readings and content from the lectures. 
 
-Taught large lecture and 1 activity section. Collaborated with a team of lecturers and professors to update course material and discuss learning objectives. Course content includes exploratory data analysis, methods of visualizing data, descriptive statistics, misuse and manipulation of data in statistical analysis, probability, binomial and normal distributions, confidence intervals, hypothesis testing, correlation and regression, contingency tables.
+In the research practicum I play a bit of a different role. In the early part of the quarter, I work with the students to create a testable research question and to identify a set of methods appropriate for gathering data. The instructor role shifts over the quarter to adapt to student needs at any given time. Depending on the project, this includes survey design, ethnographic methods, qualitative and quantitative data analysis, data visualization, and inferential and descriptive statistics. As they progress, I constantly provide feedback on analyses, the written report, and the end-of-quarter presentation, and meet with students if they need help on a specific task. Teaching the research practicum was always the most demanding but also most rewarding teaching experience. 
 
-# Graduate Teaching Associate, California State University, Long Beach
-*Department of Mathematics and Statistics*
+The honors course was similar, but instead of one group project each student had their own. The course was oriented around getting students to clarify their research questions, determine the most appropriate (and feasible) methods, begin data collection, and write clearly about their project (including literature reviews, theory, results, and general writing tips to get them writing clearly). I shared my experiences, difficulties, and insecurities in research and writing. 
 
-## Course: STAT 108 - Statistics for Everyday Life
-Wrote weekly lesson plans and solutions for all STAT 108 activity sections. Lesson plans consisted of a combination of think-pair-share, modeling, individual, and group work designed to extend student understanding of content covered in lecture as well as introduce new statistical concepts. Taught 5 activity sections with 30 undergraduate students per section. Students enrolled in this course were primarily pre-healthcare majors. Attended lecture 2 times per week and answered questions asked during lecture. Held 2hrs of office hours per week.
-
-## Course: MATH 112B - Essential Algebra B
-
-Assisted with the development and implementation during the first semester this course was implemented. Developed lesson plans that connected the new Geometry material taught in activity sections to the Algebra concepts covered in large lecture. Lessons consisted of a combination of think-pair-share, modeling, individual, and group work. Taught 4-5 activity sections per semester with 25-30 undergraduate students per section. Students were primarily STEM majors. Attended lecture 2 times per week and answered questions asked during lecture. Held 2hrs of office hours per week.
-
-## Course: MATH 104/94* - The Power of Mathematics
-
-Assisted with the development and implementation during the first semester this course was implemented. Wrote weekly quizzes and developed lesson plans that focused on think-pair-share, and group work designed to demonstrate real-world applications of concepts covered in large lecture. Taught 4-5 activity sections per semester with 25-30 undergraduate students per section. Students enrolled in this course were non-STEM majors and came from a diverse population of majors. Held 2hrs of office hours per week.
-
-# Mentor Supplemental Instructor, California State University, Long Beach
-
-## Course: MATH 115/SI 60* - Business Calculus
-
-Taught 1 supplemental instruction section. Wrote and implemented lesson plans that reinforced and extends material covered in lecture.  Supervised a group of 5 mathematics supplemental instructors and held bi-weekly training's on content, classroom management, and teaching techniques.  Held weekly office hours by appointment.  Attend weekly lecture.  Lesson primarily focused on group work.
-
-## MATH 122/SI 60* -  Calculus I
-
-Taught 1 supplemental instruction section. Wrote and implemented lesson plans that reinforced and extends material covered in lecture.  Held weekly office hours by appointment.  Attend weekly lecture.  Lessons were primarily lecture focused with sparse group work.
-
-\* Instructor of Record
+In all courses I maintain an open policy of communication with students. Even prior to the pandemic, I encourage students to be transparent with me about any difficulties they are having with course content, attendance, or life events disrupting their education experience (without asking for details, of course). I believe this teaches students an important lesson, that when you are struggling or need help, don't be afraid to ask for it. Since the start of the pandemic, I emphasize this even more, making accommodations for students to submit work on alternative timelines, meet individually to supplement discussion, and to give assistance on presentations, papers, or research. 

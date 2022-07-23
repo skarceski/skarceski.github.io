@@ -2,7 +2,7 @@
 title: "Is There a Limit to the Size of the State? The Scope Conditions of Wagner’s Law"
 collection: publications
 permalink: /publication/2020_wagners_law
-date: 2020-04
+date: 2020-04-01
 venue: 'Journal of Institutional Economics'
 paperurl: 'https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780198858218.001.0001/oxfordhb-9780198858218-e-34'
 #citation: 'Karceski, Steven M. and Edgar Kiser (2020). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 701–22.'

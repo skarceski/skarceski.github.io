@@ -2,7 +2,7 @@
 title: "Political Economy of Taxation"
 collection: publications
 permalink: /publication/2017_pe_taxation
-date: 2017-05
+date: 2017-05-01
 venue: 'Annual Review of Political Science'
 paperurl: 'https://www.annualreviews.org/doi/abs/10.1146/annurev-polisci-052615-025442'
 #citation: 'Karceski, Steven M. and Edgar Kiser (2021). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 701–22.'

@@ -5,25 +5,13 @@ permalink: /research-projects/
 author_profile: true
 ---
 
-This page is a collection of research and projects that are either in-progress or completed.
+### Centrism and moderation in American politics
 
-## Teacher Retention in Washington, An Event History Analysis - 2022
+*In progress* My dissertation represents the first comprehensive, critical investigation of centrism and moderation  in contemporary American politics (I find they are used interchangeably and treat them as such). Other scholars have studied centrism in the context of electoral outcomes, political polarization, the campaign process, or focused on the rhetoric of politicians labeled "cenrist." My research demonstrates the absence of an agreed-upon definition of centrism, an observation I find true among journalists, politicians, and social scientists. The lack of a shared definition largely goes unnoticed, or at least unmentioned. 
 
-*In progress* An analysis of teacher retention from 2017-2020 in Washington using data publicly available from the Washington State Office of Superintendent of Public Instruction (OSPI). Specifically the OSPI S-275 datasets for each year were merged with other publicly available OSPI datasets to create a comprehensive public dataset of Washington teachers. Methodology primarily consisted on non-parametric modeling techniques including Life Tables, and using time-varying covariates and coefficients in a Cox regression model. 
+Centrism holds a variety of meanings. It can refer to a median voter (or citizen preference) center, a middle-ground ideological position (or set of positions), or the space in the middle of political actor preferences/behavior (primarily between two parties). It can be determined through the aggregation of preferences (where diversity represents centrism), it can refer to a statistic in a distribution (median or mean), or simply a midpoint in an abstract space (like ideology). In other cases, centrism is an ambiguous call to transcend political divisions, a call for "smart" or common sense policies, or a form of expert-led technocratic decision making. While centrism can mean so many different things, it certainly cannot be assumed to mean all of these at the same time, and this is one of the issues I focus on.  
 
-## An Item Response Theory Analysis of Biology Freshman Survey - 2021
+Journalists, social scientists, public intellectuals, think tanks, and politicians seem to employ centrism in a way that, the supply of centrism (politicians, policies, or positions identified as centrist) does not match the demand (the "centrist" public opinion, or median preference). In fact, my analysis of newspaper articles shows the policies most often identified with centrism represent a set of policies preferred by economic elites – lower taxes, lower spending, privatizing entitlements, reducing the debt, and general support for free markets. The policies most often identified as not centrist tend to be policies supported by majorities, often durable majorities, of American citizens – like a higher minimum wage, government-run health care, strengthening Social Security, and higher taxes on corporations and high incomes. I find this represents efforts to define the contested space of the political center. 
 
-A psychometric analysis of a survey administered to incoming freshman at California State University, Long Beach who were admitted into the Biological Sciences major. The goal of the analysis was to determine if there is any significant difference between the latent trait estimates of students who were admitted as Biological Sciences Majors to CSULB in 2020 as compared to students admitted in 2021, determine if there is a significant difference in latent trait estimates between male and female students, and determine if there are any significant correlations between latent trait estimates.
-
-## Predicting Growth Mindset - 2021
-
-This project attempts to contribute to the literature on fostering growth mindset in students by using the 2018 PISA and focusing on the association between student’s perception of their school and teachers and growth mindset in the context of students in grades eight through twelve in the United States. Due to the hierarchical structure of the data (students within schools) survey data, a Multilevel Logistic Model was fit to the data.
-
-## A Multivariate Statistical Analysis of Major Change Patterns and Significant Factors That Influence Graduation Rates: A Case Study at California State University, Long Beach (Master's Thesis) - 2020
-
-Applied a combination of chi-squared hypothesis testing and correlation analysis to determine if students who changed majors graduate at a significantly different rate than students who did not. A Multinomial Logistic model was developed to identify significant factors that influence a students time to graduation. Fishers Multi-Population Linear Discriminate was implemented to develop a classification system which can be used to classify and predict a students time to graduation.
-
-## Detecting and Classifying Suspicious Yelp Reviews - 2019
-
-Analysis of the Yelp Dataset written reviews and star ratings using a combination of Tableau, VADER Sentiment Analysis with Natural Language Processing (NLP), and Machine Learning. Using VADER the sentiment of a written review was calculated and compared to the star rating. Reviews with negative sentiments and high star ratings or high sentiments and low star ratings were flagged as suspicious.
+My future work will further explore these ideas. In particular, the empirical use of centrism in American political discourse is ripe for the application of content analysis and natural language processing. Further, there is a need to (1) highlight what I believe are serious flaws in the ways centrism is operationalized and measured in political science, (2) explore the historical origins of the contemporary brand of centrism in the United States, and (3) consider how the case of centrism compares to historical examples of ideological hegemony, the abuse of knowledge-based authority, and elite influence over political discourse.
 

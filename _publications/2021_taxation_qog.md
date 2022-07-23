@@ -1,3 +1,13 @@
+---
+title: "Taxation and the Quality of Government"
+collection: publications
+permalink: /publication/2021_taxation_qog 
+date: 2021-07-20
+venue: 'Oxford Handbook on the Quality of Government'
+paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+citation: 'Karceski, Steven M. and Edgar Kiser (2021). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 701–22.'
+--- 
+
 **Karceski, Steven M.**, and Edgar Kiser. 2021. “Taxation and the Quality of Government.” Pp. 701–22 in *The Oxford Handbook of the Quality of Government*, edited by A. Bågenholm, M. Bauhr, M. Grimes, and B. Rothstein. Oxford, England: Oxford University Press.
 
 **Karceski, Steven M.**, Nives Dolšak, Aseem Prakash, and Travis N. Ridout. 2020. “Did TV Ads Funded by Fossil Fuel Industry Defeat the Washington Carbon Tax?” *Climate Change* 158(3):301–7. doi: 10.1007/s10584-019-02626-z.

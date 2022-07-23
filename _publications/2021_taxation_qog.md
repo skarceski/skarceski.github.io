@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021_taxation_qog 
 date: 2021-07-20
 venue: 'Oxford Handbook on the Quality of Government'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780198858218.001.0001/oxfordhb-9780198858218-e-34'
 citation: 'Karceski, Steven M. and Edgar Kiser (2021). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 701–22.'
 --- 
 

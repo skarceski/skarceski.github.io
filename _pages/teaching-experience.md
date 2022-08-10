@@ -7,35 +7,38 @@ author_profile: true
 
 I have extensive teaching experience in the areas of political sociology, environmental sociology,
 
-### Teaching history 
+## Teaching history
 
-*As an instructor*
-- SOC 456 Political Sociology (Spring 2022, Fall 2021, Summer 2021, Spring 2021, Summer 2020, Winter 2020, Winter 2019)
-- SOC 316 Sociology Theory (Summer 2022, Summer 2019)
-- SOC 301 Special Topics: Climate Change and Society (Fall 2022)
-- SOC 497 Undergraduate Honors (Winter 2022, Winter 2021)
-- SOC 403 Undergraduate Research Practicum (Fall 2020, Spring 2020, Fall 2019, Spring 2019, Fall 2018, Spring 2018, )
-  - Undergraduate research course in partnership with the City of Seattle
-  - Students create and administer a survey, conduct interviews, and present the findings to the City of Seattle Office of Auditors
-- SOC 404 Civic Internship Practicum (Spring 2017, Winter 2017)
-- SOC 374 Law and Society (Summer 2018)
-- SOC 110 Survey of Sociology (Summer 2017)
+### *As an instructor*
+- **SOC 456 Political Sociology** (Spring 2022, Fall 2021, Summer 2021, Spring 2021, Summer 2020, Winter 2020, Winter 2019)
+  - Topics include democratic theory, the welfare state, political inequality, institutional theories, gender and the state, race and the state, climate politics,
+- **SOC 316 Sociology Theory** (Summer 2022, Summer 2019)
+- **SOC 301 Special Topics: Climate Change and Society** (Fall 2022)
+- **SOC 497 Undergraduate Honors** (Winter 2022, Winter 2021)
+- **SOC 403 Undergraduate Research Practicum** (Fall 2020, Spring 2020, Fall 2019, Spring 2019, Fall 2018, Spring 2018)
+  - Undergraduate research course in partnership with the City of Seattle Office of Auditors
+  - Students create and administer a survey, conduct interviews, and present the findings to the Office of Auditors
+  - Research topics include Seattle Secure Scheduling Ordinance and the undergraduate experience during COVID
+- **SOC 404 Civic Internship Practicum** (Spring 2017, Winter 2017)
+  - Students are placed in internships at various organizations in the Seattle areal
+  - Course material on the sociology of work, occupations, and organizations
+- **SOC 374 Law and Society** (Summer 2018)
+- **SOC 110 Survey of Sociology** (Summer 2017)
 
-*As a teaching assistant*
-- SOC 110 Survey of Sociology (Fall 2017, Fall 2015, Fall 2014)
-- SOC 316 Sociological Theory (Fall 2016, Winter 2016, Spring 2015, Winter 2015)
-- CSSS 221 Statistical Concepts and Methods for Social Science (Spring 2016) 
-- SOC - There must be more
+### *As a teaching assistant*
+- **SOC 110 Survey of Sociology** (Fall 2017, Fall 2015, Fall 2014)
+- **SOC 316 Sociological Theory** (Fall 2016, Winter 2016, Spring 2015, Winter 2015)
+- **CSSS 221 Statistical Concepts and Methods for Social Science** (Spring 2016)
 
-*As a consultant*
+### *As a consultant*
 - Center for Social Science and Computational Research (Fall 2021 - present)
   - Assist undergraduate students, graduate students, and faculty with statistical software and data management issues  
-  - Held workshops in R, `tidytext`, and [Zotero](zotero.org) 
+  - Held workshops in R, `tidytext`, and [Zotero](zotero.org)
 - CaSE CAMI Fellows Program (Summer 2022)
   - Served as a "virtual mentor" to public health scholars in Sub-Saharan Africa learning R
 
-*As a mentor/supervisor*
-- Independent studies for sociology undergraduates (5)
+### *As a mentor/supervisor*
+- Independent studies (SOC 399 and SOC 499) for sociology undergraduates (5)
 - Interdisciplinary honors thesis (1)
 - Sociology undergraduate honors thesis (1)
 

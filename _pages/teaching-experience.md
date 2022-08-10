@@ -9,27 +9,45 @@ I have extensive teaching experience in the areas of political sociology, enviro
 
 ## Teaching history
 
-### *As an instructor*
+### *As an instructor at the Unversity of Washington*
 - **SOC 456 Political Sociology** 
   - Quarters: *Spr '22, Aut '21, Sum '21, Spr '21, Sum '20, Win '20, Win '19*
-  - Topics include democratic theory, the welfare state, political inequality, elite theories, institutional theories, gender and the state, race and the state, and climate politics
-- **SOC 316 Sociology Theory** (Summer 2022, Summer 2019)
-- **SOC 301 Special Topics: Climate Change and Society** (Fall 2022)
-- **SOC 497 Undergraduate Honors** (Winter 2022, Winter 2021)
-- **SOC 403 Undergraduate Research Practicum** (Fall 2020, Spring 2020, Fall 2019, Spring 2019, Fall 2018, Spring 2018)
+  - Topics include democratic theory, the welfare state, political inequality, elite theories, institutional theories, nationalism, fiscal sociology, gender representation, party identification, Neoliberalism, populism, Good Government, expertise, race and the state, and climate politics
+- **SOC 403 Undergraduate Research Practicum** 
+  - Quarters: *Aut '20, Spr '20, Aut '19, Spr '19, Aut '18, Spr '18*
   - Undergraduate research course in partnership with the City of Seattle Office of Auditors
   - Students create and administer a survey, conduct interviews, and present the findings to the Office of Auditors
-  - Research topics include Seattle Secure Scheduling Ordinance and the undergraduate experience during COVID
-- **SOC 404 Civic Internship Practicum** (Spring 2017, Winter 2017)
-  - Students are placed in internships at various organizations in the Seattle areal
-  - Course material on the sociology of work, occupations, and organizations
-- **SOC 374 Law and Society** (Summer 2018)
-- **SOC 110 Survey of Sociology** (Summer 2017)
+  - Research topics include [Seattle Secure Scheduling Ordinance](https://www.seattle.gov/documents/Departments/LaborStandards/21_0405_Fact%20Sheet_SSO.pdf) and the undergraduate experience during COVID
+- **SOC 316 Sociology Theory**
+  - Quarters: *Sum '22, Sum '19* 
+  - The course privdes an overview of the classical theories of Marx, Weber, Durkheim, Du Bois, and Gramsci 
+  - Additional topics include symbolic interactionism, microfoundations, functionalism, social networks, colonialism, social construction, and institutional theory
+- **SOC 497 Undergraduate Honors** 
+  - Quarters: *Win '22, Win '21*
+  - Assist the UW Sociology Undergraduate honors with their research projects (IRB, data collection, analysis, etc.) 
+  - Provide detailed writing feedback on thesis drafts (w/ additional focus on writing literature reviews) 
+  - Held tutorials in data management, statistical modeling, and data visualization (in R, ggplot2) 
+- **SOC 301 Special Topics: Climate Change and Society**
+  - Quarters: *Aut '22*
+- **SOC 404 Civic Internship Practicum** 
+  - Quarters: *Spr '17, Win '17*
+  - Students are placed in internships at various legal and social organizations in the Seattle area
+  - Course material on the sociology of work, occupations, and organizations 
+- **SOC 374 Law and Society** 
+  - Quarters: *Sum '18*
+- **SOC 110 Survey of Sociology**
+  - Quarters: *Sum '17* 
+  -  
 
-### *As a teaching assistant*
+### *As a teaching assistant at the Unversity of Washington*
 - **SOC 110 Survey of Sociology** (Fall 2017, Fall 2015, Fall 2014)
 - **SOC 316 Sociological Theory** (Fall 2016, Winter 2016, Spring 2015, Winter 2015)
 - **CSSS 221 Statistical Concepts and Methods for Social Science** (Spring 2016)
+
+### *As a mentor/supervisor at the Unversity of Washington*
+- Independent studies (SOC 399 and SOC 499) for sociology undergraduates (5)
+- Interdisciplinary honors thesis (1)
+- Sociology undergraduate honors thesis (1)
 
 ### *As a consultant*
 - Center for Social Science and Computational Research (Fall 2021 - present)
@@ -37,11 +55,6 @@ I have extensive teaching experience in the areas of political sociology, enviro
   - Held workshops in R, `tidytext`, and [Zotero](zotero.org)
 - CaSE CAMI Fellows Program (Summer 2022)
   - Served as a "virtual mentor" to public health scholars in Sub-Saharan Africa learning R
-
-### *As a mentor/supervisor*
-- Independent studies (SOC 399 and SOC 499) for sociology undergraduates (5)
-- Interdisciplinary honors thesis (1)
-- Sociology undergraduate honors thesis (1)
 
 
 

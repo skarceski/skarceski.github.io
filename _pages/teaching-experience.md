@@ -22,14 +22,15 @@ I have extensive teaching experience in the areas of political sociology, enviro
 - SOC 110 Survey of Sociology (Summer 2017)
 
 *As a teaching assistant*
-- SOC 110 Survey of Sociology (Fall 2017, )
-- SOC 316 Sociological Theory (Fall 2016)
-- SOC ___ Introduction to Statistics
+- SOC 110 Survey of Sociology (Fall 2017, Fall 2015, Fall 2014)
+- SOC 316 Sociological Theory (Fall 2016, Winter 2016, Spring 2015, Winter 2015)
+- CSSS 221 Statistical Concepts and Methods for Social Science (Spring 2016) 
 - SOC - There must be more
 
 *As a consultant*
 - Center for Social Science and Computational Research (Fall 2021 - present)
-  - Held workshops in R, `tidytext`, and [Zotero](zotero.org)
+  - Assist undergraduate students, graduate students, and faculty with statistical software and data management issues  
+  - Held workshops in R, `tidytext`, and [Zotero](zotero.org) 
 - CaSE CAMI Fellows Program (Summer 2022)
   - Served as a "virtual mentor" to public health scholars in Sub-Saharan Africa learning R
 

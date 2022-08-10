@@ -10,8 +10,9 @@ I have extensive teaching experience in the areas of political sociology, enviro
 ## Teaching history
 
 ### *As an instructor*
-- **SOC 456 Political Sociology** *Spr '22, Aut '21, Sum '21, Spr '21, Sum '20, Win '20, Win '19*
-  - Topics include democratic theory, the welfare state, political inequality, institutional theories, gender and the state, race and the state, climate politics,
+- **SOC 456 Political Sociology** 
+  - Quarters: *Spr '22, Aut '21, Sum '21, Spr '21, Sum '20, Win '20, Win '19*
+  - Topics include democratic theory, the welfare state, political inequality, elite theories, institutional theories, gender and the state, race and the state, and climate politics
 - **SOC 316 Sociology Theory** (Summer 2022, Summer 2019)
 - **SOC 301 Special Topics: Climate Change and Society** (Fall 2022)
 - **SOC 497 Undergraduate Honors** (Winter 2022, Winter 2021)

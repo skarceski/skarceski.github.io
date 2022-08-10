@@ -5,7 +5,11 @@ permalink: /teaching-experience/
 author_profile: true
 ---
 
-I have extensive teaching experience in the areas of political sociology, environmental sociology,
+As a teacher I am driven to help students learn how to think critically and sociologically about the world around them, to engage in debate with others, and to communicate their ideas through writing and speaking. During graduate school I have been privileged to teach a large range of courses: substantive area courses (like political sociology), sociological theory, a civic engagement practicum, an undergraduate research practicum, and the undergraduate honors course. Each has required different teaching skills and prepared me to teach students not only how to understand research and social theory, but also to conduct their own research and effectively communicate the importance of their work.   
+
+I've taught courses in political sociology, sociological theory, undergraduate honors sociology, sociology of work and occupations, undergraduate, law and society, and the introductory survey into sociology. I've been a TA for social statistics, sociological theory, and intro to sociology. I have also supervised a number of independent studies, an interdisciplinary honors thesis, and a sociology undergraduate honors thesis (separate from serving as the instructor).  Most of my courses (and all independent studies and honors theses) have included a significant amount of writing feedback and instruction. Further, given my research experience, I am qualified to teach courses in environmental sociology/politics, comparative politics, fiscal sociology, and economic sociology.
+
+My research and consulting experience make me qualified to teach statistics and statistical programming. In the research practicum and honors courses, I teach undergraduate students the R statistical programming language, with a focus on data manipulation/cleaning, data visualization, and model fitting (primarily linear and logistic models, but in a few cases multilevel models and panel models). I have experience with various R packages used for data manipulation, visualization, counterfactual estimations, table creation (including model output), spatial data (dealing with maps, shapefiles, and areal weighted interpolation), statistical modelling (OLS, GLM, multilevel, Bayesian), survey data, text analysis (structural topic models), and packages for accessing data sets like the General Social Survey, American National Election Study, and the US Census. With my experience I am well equipped to teach workshops and courses in introductory R, data visualization, and statistical implementation. While most of my experience is in R, I also have experience with teaching undergraduate students SPSS, Stata, and SQL.
 
 ## Teaching history
 
@@ -37,36 +41,30 @@ I have extensive teaching experience in the areas of political sociology, enviro
   - Quarters: *Sum '18*
 - **SOC 110 Survey of Sociology**
   - Quarters: *Sum '17* 
-  -  
 
 ### *As a teaching assistant at the Unversity of Washington*
-- **SOC 110 Survey of Sociology** (Fall 2017, Fall 2015, Fall 2014)
-- **SOC 316 Sociological Theory** (Fall 2016, Winter 2016, Spring 2015, Winter 2015)
-- **CSSS 221 Statistical Concepts and Methods for Social Science** (Spring 2016)
+- **SOC 110 Survey of Sociology** 
+  - Quarters: *Aut '17, Aut '15, Aut '14*
+- **SOC 316 Sociological Theory**
+  - Quarter: *Aut '16, Win '16, Spr '15, Win '15*
+- **CSSS 221 Statistical Concepts and Methods for Social Science** 
+  - Quarters: *Spr '16*
 
 ### *As a mentor/supervisor at the Unversity of Washington*
-- Independent studies (SOC 399 and SOC 499) for sociology undergraduates (5)
-- Interdisciplinary honors thesis (1)
-- Sociology undergraduate honors thesis (1)
+- Independent studies (**SOC 399** and **SOC 499**) for sociology undergraduates (5 students)
+- Interdisciplinary honors thesis (1 student)
+- Sociology undergraduate honors thesis (1 student)
 
 ### *As a consultant*
-- Center for Social Science and Computational Research (Fall 2021 - present)
+- Center for Social Science and Computational Research
+  - *Aut '21 - present*
   - Assist undergraduate students, graduate students, and faculty with statistical software and data management issues  
   - Held workshops in R, `tidytext`, and [Zotero](zotero.org)
-- CaSE CAMI Fellows Program (Summer 2022)
+- CaSE CAMI Fellows Program
+  - *Sum '22* 
   - Served as a "virtual mentor" to public health scholars in Sub-Saharan Africa learning R
 
-
-
-As a teacher I am driven to help students learn how to think critically and sociologically about the world around them, to engage in debate with others, and to communicate their ideas through writing and speaking. During graduate school I have been privileged to teach a large range of courses: substantive area courses (like political sociology), sociological theory, a civic engagement practicum, an undergraduate research practicum, and the undergraduate honors course. Each has required me to develop different teaching skills and prepared me to teach students not only how to understand research and social theory, but also to conduct their own research and effectively communicate the importance of their work.   
-
-### What I can teach
-
-I've taught courses in political sociology, sociological theory, undergraduate honors sociology, sociology of work and occupations, undergraduate, law and society, and the introductory survey into sociology. I've been a TA for social statistics, sociological theory, data and society, and intro to sociology. I have also supervised a number of independent studies, an interdisciplinary honors thesis, and a sociology undergraduate honors thesis (separate from serving as the instructor).  Most of my courses (and all independent studies and honors theses) have included a significant amount of writing feedback and instruction. Further, given my research experience, I am confident I can teach courses in environmental sociology/politics, comparative politics, fiscal sociology, and economic sociology.
-
-I can also teach courses in statistical programming. In the research practicum and honors courses, I taught undergraduate students the R statistical programming language, with a focus on data manipulation/cleaning, data visualization, and model fitting (primarily linear and logistic models, but in a few cases multilevel models and panel models). I have experience with various R packages used for data manipulation, visualization, counterfactual estimations, table creation (including model output), spatial data (dealing with maps, shapefiles, and areal weighted interpolation), statistical modelling (OLS, GLM, multilevel, Bayesian), using survey data, text analysis (and regular expressions), and packages for accessing data sets like the General Social Survey, American National Election Study, and the US Census. With my experience I am well equipped to teach workshops and courses in introductory R, data visualization, and statistical implementation. While most of my experience is in R, I also have experience with teaching undergraduate students SPSS, Stata, and SQL.
-
-### How I teach
+## Teaching appraoch
 
 When I teach substantive courses – like political sociology and sociological theory – I generally split class time between lecture and discussion or small group activities. Lectures cover the assigned readings and additional material expanding the scope of the lecture to include differing perspectives, recent data, and other applications of theories to historical and current events. Students submit short comments or questions prior to each meeting on the assigned reading, and I use these to guide group discussion.
 

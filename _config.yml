@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Steven M. Karceski, PhD."
+title                    : "Steven M. Karceski"
 title_separator          : "-"
-name                     : &name "Steven M. Karceski"
+name                     : &name "Steven M. Karceski, PhD."
 description              : &description "personal description"
 url                      : https://skarceski.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Steven M. Karceski"
   avatar           : "profile.png"
-  bio              : "Political sociologist interested in taxation, fiscal systems, public opinion, and political ideology"
+  bio              : "Political sociologist interested in climate policy, taxation, and public opinion"
   location         : "Waterville, ME"
   employer         : "Colby College"
   #pubmed           : 

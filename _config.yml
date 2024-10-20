@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Steven M. Karceski"
+title                    : "Steven M. Karceski, PhD."
 title_separator          : "-"
 name                     : &name "Steven M. Karceski"
 description              : &description "personal description"
@@ -83,11 +83,11 @@ author:
   name             : "Steven M. Karceski"
   avatar           : "profile.png"
   bio              : "Political sociologist interested in taxation, fiscal systems, public opinion, and political ideology"
-  location         : "Seattle, WA"
-  employer         : "University of Washington"
+  location         : "Waterville, ME"
+  employer         : "Colby College"
   #pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Iuq3PeUAAAAJ&hl=en"
-  email            : "stevek7@uw.edu"
+  email            : "skarcesk@colby.edu"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   #uri              :
   #bitbucket        :

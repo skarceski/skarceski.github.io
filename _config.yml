@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Steven M. Karceski"
-  avatar           : "profile.png"
+  avatar           : "headshot.jpg" 
   bio              : "Political sociologist interested in climate policy, taxation, and public opinion"
   location         : "Waterville, ME"
   employer         : "Colby College"
